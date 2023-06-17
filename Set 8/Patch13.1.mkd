@@ -1,0 +1,48 @@
+TOP 3 ITEM START: BF/CHAIN/BELT
+
+chain -> sunfire/bramble/garg/titans
+
+belt -> redemp/sunfire -> mech front
+ -> guardbreaker
+
+bf -> gs/ie/shojin -> samira/mf
+
+BEST WAY IS PLAYING STRONGEST BOARD SAVE HP AND MAXIMIZE ECON GO LVL 7 WITH MAXIMUM ECON + HP AND
+4-1 LVL TO 7 AND ROLL IT DOWN CANNOT MISS
+
+FRONTLINE UNITS: SETT/ZAC/SEJ/RAMMUS/EKKO
+
+BACKLINK CARRY UNITS PICK UP IF AD ITEMS:
+SENNA/BELVETH/SAMIRA (MAYBE ZED/VAYNE)
+BACKLINE IF AP:
+ASOL/MF/SORAKA/TALIYAH/VIEGO
+
+don't pickup shit that you wouldn't play if you were 1 level more
+ali 1 not good w/o ox/mascot
+level to 7 at 3-5 if still make ~30
+be willing to roll down to 20-30 on 4-5
+don't really need good after middle of stage 4 cause if you win but lose 5 interest, 13hp worth more at this point
+don't go for 3 stars unless comp really needs it (ie kaisa) -> infinite lp
+3 tank items very important because of exponential value on 3rd item
+fiddle in first for cc instead of waiting for ap, exception is prob like renegade and even then
+
+remember num of units in pool per tier
+1 = 29
+2 = 22
+3 = 18
+4 = 12 
+5 = 10
+
+unuslammable early items:
+shroud
+zephyr
+rfc?
+ice cream
+zeke's
+blue
+
+everything else can probably slam in one way or another
+
+BOW/BF/CHAIN Start
+- Flex between Duelist(not vertical), Lasercorps, Recon, if high roll can go samira
+- AP items pref renegade/oxfore (unsure about renegade)
