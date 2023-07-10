@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-07-10.md",
+                "file": "Set 9/2023-07-10.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-07-10.md",
+                "file": "Set 9/2023-07-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-07-10.md",
+                "file": "Set 9/2023-07-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-07-10.md"
+                "file": "Set 9/2023-07-10.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e8b20066437527b",
+  "active": "9c9d5e2a416df223",
   "lastOpenFiles": [
     "Set 9/Day3.md",
-    "2023-07-10.md",
+    "Set 9/2023-07-10.md",
     "Set 9/Day1.md",
     "Set 9/6-12.md",
     "Set 9/13.1b.md",
