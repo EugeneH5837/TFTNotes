@@ -13,13 +13,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Set 9/2023-07-10.md",
+                "file": "Set 9/2023-08-02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec998e81af76be19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Set 9.5/2023-08-29.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ac031fdb32c18a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Set 9.5/2023-09-16.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "370ae1f8ab2ebba3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Set 9.5/2023-09-24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7578728f28ff812d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Set 9.5/2023-10-28.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b7209a571f6d71e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -85,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Set 9/2023-07-10.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Set 9/2023-07-10.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Set 9/2023-07-10.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,13 +207,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c9d5e2a416df223",
+  "active": "4b7209a571f6d71e",
   "lastOpenFiles": [
-    "Set 9/Day3.md",
-    "Set 9/2023-07-10.md",
+    "Set 10/Headliner playstyle.md",
+    "Set 10",
+    "Set 9.5/2023-09-24 1.md",
+    "Set 9.5/2023-10-28.md",
+    "Set 9.5/2023-09-24.md",
+    "Set 9.5/2023-09-15.md",
+    "Set 9.5/2023-09-16.md",
+    "Set 9.5/Untitled.md",
+    "Set 9.5/2023-08-29.md",
+    "Set 9/2023-08-29.md",
+    "Set 9.5",
+    "Capture.PNG",
+    "Untitled.canvas",
+    "Set 9/2023-08-07.md",
+    "Set 9/2023-08-06.md",
+    "Set 9/2023-07-29.md",
+    "Set 9/2023-08-02.md",
+    "Set 9/2023-07-27.md",
+    "Set 9/2023-07-26.md",
+    "Set 9/2023-07-24.md",
+    "Set 9/2023-07-23 1.md",
+    "Set 9/2023-07-23.md",
+    "Set 9/2023-07-19.md",
+    "Set 9/2023-07-13.md",
+    "Set 9/2023-07-15.md",
     "Set 9/Day1.md",
-    "Set 9/6-12.md",
-    "Set 9/13.1b.md",
-    "Set 9/Day6.md"
+    "Set 9/Day4.md",
+    "Set 9/Day6.md",
+    "Set 9/2023-07-12.md",
+    "Set 9/2023-07-11.md"
   ]
 }
