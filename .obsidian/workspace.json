@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Set 10/Watching stream notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Set 10/Watching stream notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Set 10/Watching stream notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Set 10/Watching stream notes.md"
               }
             }
           }
@@ -210,6 +210,8 @@
   "active": "4b7209a571f6d71e",
   "lastOpenFiles": [
     "Set 10/Headliner playstyle.md",
+    "Set 10/Watching stream notes.md",
+    "README.md",
     "Set 10",
     "Set 9.5/2023-09-24 1.md",
     "Set 9.5/2023-10-28.md",
@@ -236,8 +238,6 @@
     "Set 9/2023-07-15.md",
     "Set 9/Day1.md",
     "Set 9/Day4.md",
-    "Set 9/Day6.md",
-    "Set 9/2023-07-12.md",
-    "Set 9/2023-07-11.md"
+    "Set 9/Day6.md"
   ]
 }
