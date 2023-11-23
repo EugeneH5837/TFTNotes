@@ -38,3 +38,7 @@ He says a lot of games feels like you have to sell + roll. Also need to scrounge
 Bruiser naturally lends itself to spellweaver/ap line due to gragas
 Ekko superflex most comps
 Same with blitz
+
+
+Dishsoap:
+convinced GRB really good on MF
