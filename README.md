@@ -13,3 +13,5 @@ S8.5: D2 (Quit after 30 games)
 S9: Masters 
 
 S9.5: D3 (worst set i've played so far, quit after 80 games i suck)
+
+S10: Masters

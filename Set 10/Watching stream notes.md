@@ -42,3 +42,25 @@ Same with blitz
 
 Dishsoap:
 convinced GRB really good on MF
+
+
+REMEMBER CROWD DIVER ZED IS AN ACTUAL AD OUT, ITS BETTER THAN SITTING ON CAIT AND IF OTHER STUFF (AKA AKALI) IS CONTESTED
+JUST NEED DMG + HEALING ON ZED
+
+
+Robin:
+Fast 9
+
+Highroll chosen (Annie, corki, superfan)
+
+Get Econ augment (spoils of war, cluttered/clear mind, patient study, cutting corners, good for something, lucky strike)
+
+Fast 8 on 4-2, sell 1 cost chosen slight roll for 4 cost chosen
+Fast 9 on 5-2, sell 4 cost for 5 cost chosen
+Roll back down 6-1 for legendary level 9 board 
+
+GGS
+
+DO NOT DO THIS IF YOU DO NOT HAVE ONE OF THE TWO CONDITIONS
+YOU WILL GO 8TH YOU ARE NOT SETSUKO
+Just play stable 8 roll board or reroll
